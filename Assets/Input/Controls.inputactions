@@ -1,0 +1,34 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "cc77483b-1447-4c9d-8c40-7ff700325ba7",
+            "actions": [
+                {
+                    "name": "Mobile",
+                    "type": "Button",
+                    "id": "789033df-0c29-4d8d-9427-bd23ada19ac5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "dad31945-cbfa-48c4-ab29-cd671be7a831",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mobile",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
